@@ -1,6 +1,6 @@
 ---
 # Display name
-title: Ángel Josué Valencia Armijos
+title: Ángel Valencia-Armijos
 
 # Name pronunciation (optional)
 name_pronunciation: Ahn-Hell
@@ -78,7 +78,6 @@ social:
 highlight_name: true
 ---
 
-I am a PhD candidate of electrical and computer engineering at the University of Ottawa and member of the [SMART](http://www.site.uottawa.ca/~ppayeur/SMART/) research group led by [Pierre Payeur](http://www.site.uottawa.ca/~ppayeur/). My research interests are in the areas of robotics, vision and learning. I am currently developing methods for modeling and perception of deformable objects in the context of robotic manipulation.
+I am a PhD candidate in electrical and computer engineering at the University of Ottawa and member of the [SMART](http://www.site.uottawa.ca/~ppayeur/SMART/) research group led by [Pierre Payeur](http://www.site.uottawa.ca/~ppayeur/). My research interests center primarily on the fields of robotics, vision and learning, with a specific focus on the modeling and perception of deformable objects in robotic manipulation scenarios.
 
-I am especially interested in working towards increasing the autonomy of robots in unstructured environments.
-{style="text-align: justify;"}
+My current work aims to develop novel methodologies to improve the understanding and handling of deformable objects by robots in unstructured environments. I am especially interested in contributing to the advancement of autonomous robotic systems, with the ultimate goal of enhancing their functionality and efficiency in real-world applications.
