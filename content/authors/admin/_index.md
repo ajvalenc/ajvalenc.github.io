@@ -1,6 +1,6 @@
 ---
 # Display name
-title: Ángel Valencia-Armijos
+title: Ángel J. Valencia
 
 # Name pronunciation (optional)
 name_pronunciation: Ahn-Hell
