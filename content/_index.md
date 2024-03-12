@@ -16,7 +16,9 @@ sections:
     content:
       title: Recent News
       subtitle: ''
-      text: ''
+      text: |-
+        - **November 23, 2020:** New [paper](publication/valencia-2020-a/) accepted in Frontiers in Robotics and AI
+        - **June 5, 2020:** [MASc Thesis](publication/valencia-2020/) approved with minor revisions
       # Choose how many pages you would like to display (0 = all pages)
       count: 5
       # Filter on criteria
