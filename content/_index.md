@@ -17,13 +17,13 @@ sections:
       title: Recent News
       subtitle: ''
       text: |-
-        - **June 5, 2023:** New[paper](publication/rouhafzay-2023/) accepted at [SAS2023](https://2023.sensorapps.org/).
-        - **April 17, 2023:** New [paper](publication/valencia-2023/) accepted at [CRV2023](https://www.computerrobotvision.org/2023/).
-        - **November 23, 2020:** New [paper](publication/valencia-2020-a/) accepted in [Frontiers in Robotics and AI](https://www.frontiersin.org/journals/robotics-and-ai).
-        - **September 17, 2020:** Two new [papers](publication/nadon-2020/) accepted at the [IROS](https://www.iros2020.org/) workshop on [RObotic MAnipulation of Deformable Objects]((https://commandia.unizar.es/irosworkshop2020/)).
-        - **June 5, 2020:** [MASc Thesis](publication/valencia-2020/) approved with minor revisions.
-        - **August 10, 2019**: New [paper](publication/valencia-2019/) accepted at [SENSORS2019](https://2019.ieee-sensorsconference.org/index.html).
-        - **November 14, 2018**:: New [paper](publication/nadon-2018/) accepted in [Robotics](https://www.mdpi.com/journal/robotics).
+        - **Jun 5, 2023:** New [paper](publication/rouhafzay-2023/) accepted at [SAS2023](https://2023.sensorapps.org/).
+        - **Apr 17, 2023:** New [paper](publication/valencia-2023/) accepted at [CRV2023](https://www.computerrobotvision.org/2023/).
+        - **Nov 23, 2020:** New [paper](publication/valencia-2020-a/) accepted in [Frontiers in Robotics and AI](https://www.frontiersin.org/journals/robotics-and-ai).
+        - **Sep 17, 2020:** Two new [papers](publication/nadon-2020/) accepted at the [IROS](https://www.iros2020.org/) workshop on [RObotic MAnipulation of Deformable Objects](https://commandia.unizar.es/irosworkshop2020/).
+        - **Jun 5, 2020:** [MASc Thesis](publication/valencia-2020/) approved with minor revisions.
+        - **Aug 10, 2019**: New [paper](publication/valencia-2019/) accepted at [SENSORS2019](https://2019.ieee-sensorsconference.org/index.html).
+        - **Nov 14, 2018**: New [paper](publication/nadon-2018/) accepted in [Robotics](https://www.mdpi.com/journal/robotics).
       # Choose how many pages you would like to display (0 = all pages)
       count: 5
       # Filter on criteria
